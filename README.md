@@ -47,6 +47,5 @@ Daniel </a></h1>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
 Last Edited on: 12/10/2026
